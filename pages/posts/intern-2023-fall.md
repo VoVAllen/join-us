@@ -11,7 +11,7 @@ TensorChord是一家年轻的技术向公司，创立于 2022 年 6 月，目前
 TensorChord 目前有如下项目
 -  [github.com/tensorchord/envd](https://github.com/tensorchord/envd) 为 AI/ML 场景带来了简单易用、可复现的开发环境。在人工智能的开发过程中，充斥着各种各样的工具与依赖。从 GPU 等硬件再到编程语言的各种库等等， 这让配置开发环境的过程变得非常复杂。用户通过 envd 可以用 Python 来声明期望的依赖，构建出基于容器的 AI/ML 环境。不仅能够在本地开发，在团队中也可以使用任何你期望的 IDE 进行远程开发。
 
-- Serverless 机器学习模型推理产品 [modelz](https://docs.modelz.ai)，及开源版本 [openmodelz](https://github.com/tensorchord/openmodelz)
+- Serverless 机器学习模型推理产品 [modelz](https://docs.modelz.ai)，及开源版本 [openmodelz](https://github.com/tensorchord/openmodelz)。帮助用户在任何云上部署自己的机器学习模型并且提供弹性扩容能力，减轻用户在infra上的负担，更快将 AI/ML 模型部署到生产环境中。
 
 - [pgvecto.rs](https://github.com/tensorchord/pgvecto.rs)，为世界上最先进的数据库 PostgreSQL 增加向量检索功能。在众多插件中第一个支持HNSW indexing以及条件过滤索引支持，帮助用户在开发AI应用时更灵活更快速的使用向量能力。
 
